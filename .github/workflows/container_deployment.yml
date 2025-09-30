@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_BASE_NAME: jhon/taskapi
+  IMAGE_BASE_NAME: loda00/taskapi
 
 jobs:
   API_Image:
